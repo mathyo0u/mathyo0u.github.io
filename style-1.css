@@ -1,0 +1,38 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+.bg-dark{
+
+    background-color: #354839!important;  
+}
+
+#cards{
+    
+    float: right;
+    align-items: center;
+}
+#leaf-icon{
+  margin-left: 500%;
+}
+ul{
+
+    display:  inline-flex;
+    
+    text-align: center;
+    list-style: none;
+}
+
+
+ul li {
+    align-self: stretch;
+    padding: 5px 15px;
+
+}
+
+.jumbotron{
+  
+ 
+  height: 180px;
+}
