@@ -30,7 +30,13 @@ ul li {
     padding: 5px 15px;
 
 }
+#about-page{
+    margin: 50px;
+    padding-left: 150px;
+    padding-right: 150px;
+    font-size: 20px;
 
+}
 .jumbotron{
   
  
